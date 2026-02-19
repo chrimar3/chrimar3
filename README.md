@@ -6,7 +6,7 @@ Started in electrical engineering before finding my path in Economics—kept the
 
 ### Currently Building
 
-**[agent-athens](https://github.com/chrimar3/agent_athens)** — Cultural events platform for Athens designed for AI answer engines (ChatGPT, Perplexity, Claude) rather than traditional SEO. Live prototype, ~315 pages, automated daily updates.
+**[agent-athens](https://github.com/chrimar3/agent-athens)** — Cultural events platform for Athens designed for AI answer engines (ChatGPT, Perplexity, Claude) rather than traditional SEO. Live prototype, ~315 pages, automated daily updates.
 
 ### Recent Work
 
