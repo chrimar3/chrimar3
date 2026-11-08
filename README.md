@@ -23,4 +23,3 @@ Python • TypeScript • Claude API • OpenAI API • Bun • Next.js • SQLi
 
 ---
 
-*Seeking 5-6 years of corporate depth before entrepreneurial paths. Open to LLM/AI roles in Greece or remote.*
